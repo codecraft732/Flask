@@ -105,17 +105,6 @@ Removes a record.
 ```
 
 
-######################
-
-### update_product Endpoint (Postman)
-## 📸 Screenshot update test clip
-<p align="center">
-  <img src="postman.png" width="350" height="350>
-</p>
-
-######################
-
-
 
 ## Bonus tips
 **Environment Variables**
@@ -135,7 +124,18 @@ Sample error response:
 ## Author
 👩‍💻 Alishba — [GitHub Profile](https://github.com/codecraft732)
 
-```
+
+
+######################
+
+### update_product Endpoint (Postman)
+## 📸 Screenshot update test clip
+<p align="center">
+  <img src="postman.png" width="350" height="350>
+</p>
+
+######################
+
 
 
 
