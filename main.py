@@ -18,10 +18,6 @@ with app.app_context():
 def home():
     return "Flask is running"
 
-# POST method used to send data
-# GET method used to recieve data 
-# update method update data while delete method delete data
-
 # register func
 @app.route('/register', methods = ['POST'])
 def register():

@@ -16,7 +16,7 @@ supports register, login, and full CRUD operations on products.
 
 ## Demo Clip
 <p align="center">
-  <img src="DemoClip.png" width="120">
+  <img src="DemoClip.png" width="180" height="180>
 </p>
 
 ## Now let's explain the API methods
@@ -62,13 +62,6 @@ Removes a record.
 | DELETE | /products/<id>          | Deletes a product                   | Yes (JWT) |
 ```
 ## Testing with Postman
-
-### update_product Endpoint (Postman)
-## 📸 Screenshots
-<p align="center">
-  <img src="postman.png" width="120">
-</p>
-
 1. **Register a user**
    - Method: POST
    - URL: http://127.0.0.1:5000/register
@@ -104,6 +97,11 @@ Removes a record.
    - Method: DELETE
    - URL: http://127.0.0.1:5000/products/1
 ```
+### update_product Endpoint (Postman)
+## 📸 Screenshot update test clip
+<p align="center">
+  <img src="postman.png" width="180" height="180>
+</p>
 
 
 
