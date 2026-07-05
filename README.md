@@ -16,7 +16,7 @@ supports register, login, and full CRUD operations on products.
 
 ## Demo Clip
 <p align="center">
-  <img src="Flask_Python_API/DemoClip.png" width="120">
+  <img src="DemoClip.png" width="120">
 </p>
 
 ## Now let's explain the API methods
@@ -61,17 +61,12 @@ Removes a record.
 | PUT    | /products/<id>          | Updates a product's details         | Yes (JWT) |
 | DELETE | /products/<id>          | Deletes a product                   | Yes (JWT) |
 ```
-
-
-
-
-
 ## Testing with Postman
 
 ### update_product Endpoint (Postman)
 ## 📸 Screenshots
 <p align="center">
-  <img src="Flask_Python_API/postman.png" width="120">
+  <img src="postman.png" width="120">
 </p>
 
 1. **Register a user**
@@ -112,17 +107,17 @@ Removes a record.
 
 
 
-**Bonus tips**
-## Environment Variables
+## Bonus tips
+**Environment Variables**
 Create a `.env` file:
 SECRET_KEY=your_secret_key
 DATABASE_URL=your_db_url
 
-## Error Handling
+**Error Handling**
 Sample error response:
 {"error": "Invalid credentials"}
 
-## Future Improvements
+**Future Improvements**
 - Add pagination for products
 - Add product image upload
 - Add role-based access (admin/user)
