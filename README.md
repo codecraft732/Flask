@@ -127,11 +127,11 @@ Sample error response:
 
 
 ######################
-
 ### update_product Endpoint (Postman)
 ## 📸 Screenshot update test clip
+
 <p align="center">
-  <img src="postman.png" width="350" height="350>
+  <img src="postman.png" width="350" height="350">
 </p>
 
 ######################
