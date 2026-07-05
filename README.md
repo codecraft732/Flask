@@ -14,10 +14,16 @@ supports register, login, and full CRUD operations on products.
 - Flask-JWT-Extended (Authentication)
 - Postman (API Testing)
 
+
+######################
 ## Demo Clip
 <p align="center">
-  <img src="DemoClip.png" width="180" height="180>
+  <img src="DemoClip.png" width="350" height="350">
 </p>
+
+######################
+
+
 
 ## Now let's explain the API methods
 
@@ -97,11 +103,17 @@ Removes a record.
    - Method: DELETE
    - URL: http://127.0.0.1:5000/products/1
 ```
+
+
+######################
+
 ### update_product Endpoint (Postman)
 ## 📸 Screenshot update test clip
 <p align="center">
-  <img src="postman.png" width="180" height="180>
+  <img src="postman.png" width="350" height="350>
 </p>
+
+######################
 
 
 
